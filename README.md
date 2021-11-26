@@ -1,5 +1,7 @@
 # Endermann
 
+Welcome to the Enderworld!
+
     -------------------------------
     This is the ENDERWEB!
 
