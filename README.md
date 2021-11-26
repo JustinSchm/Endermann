@@ -9,22 +9,23 @@ ______________________________
 
 1. Button
 
-<DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Welcome to ENDERMANN!</title>
-  </head>
-  <body>
-    <img src="https://www.bechtle.com/assets/bens/img/brands/logo-bechtle.png">
-  <h1>WELCOME TO ENDERMANN!</h1>
-  <a href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ"> <button>Trust me ;)</button> <a>
-  </body>
-</html>
+<§DOCTYPE html>
+<§html>
+  <§head>
+    <§meta charset="utf-8">
+    <§title>Welcome to ENDERMANN!</title>
+  <§/head>
+  <§body>
+    <§img src="https://www.bechtle.com/assets/bens/img/brands/logo-bechtle.png">
+  <§h1>WELCOME TO ENDERMANN!</h1>
+  <§a href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ"> <button>Trust me ;)</button> <a>
+  <§/body>
+<§/html>
 ~
 
 ------------------------------
-(This html was changed so github.com does not display the web design!)
+(This html was changed so github.com does not display the web design!) 
+(simply remove all the § to get the working html)
 ------------------------------
 This is the ENDERWEB!
 
