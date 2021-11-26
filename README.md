@@ -9,7 +9,7 @@ ______________________________
 
 1. Button
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -23,6 +23,8 @@ ______________________________
 </html>
 ~
 
+------------------------------
+(This html was changed so github.com does not display the web design!)
 ------------------------------
 This is the ENDERWEB!
 
