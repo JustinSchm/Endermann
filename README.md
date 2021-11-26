@@ -17,7 +17,7 @@ mkdir /root/bechtleserver
 
 # Starten des bechtle-job Containers
 
-Ist Docker installiert, können die Container gestartet werden. Das neu erstellte Verzeichnis wird nun mit dem Verzeichnis /usr/share/nginx/html gemountet.
+Ist Docker installiert, können die Container gestartet werden. Das neu erstellte Verzeichnis wird nun mit dem Verzeichnis */usr/share/nginx/html* gemountet.
 ```
 docker run --name bechtle-job -d -v /root/bechtle:/usr/share/nginx/html quay.io/keanufuchs/bechtle-job-image
 ```
