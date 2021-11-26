@@ -1,2 +1,3 @@
-FROM nginx:1.21 
-ADD index.html /usr/share/nginx/html
+FROM redhat/ubi8
+ADD script.sh /root
+CMD /root/script.sh

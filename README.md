@@ -1,5 +1,3 @@
-# Endermann
-
 Welcome to the Enderworld!
 
 This is the documentation from a Website that 
