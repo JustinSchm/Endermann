@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+ bechtle-web:
+  build: ./bechtle-web
+  ports:
+   - "8080:80"
+  volumes:
+   - /root/bechtleserver:/usr/share/nginx/html
+  depends_on:
+   - bechtle-job
+ bechtle-job:
+  build: ./bechtle-job
+  volumes:
+   - /root/bechtleserver:/usr/share/nginx/html
