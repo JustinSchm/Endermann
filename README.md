@@ -1,8 +1,8 @@
 # Endermann
 
-# Welcome to the Enderworld!
+Welcome to the Enderworld!
 
-_This is the documentation from a Website that 
+This is the documentation from a Website that 
 can display the Container IP and the current time!
 
     -------------------------------
@@ -47,7 +47,9 @@ can display the Container IP and the current time!
     _______________________________
       
     2. Dockerfile
+    
     FROM nginx:latest
     ADD index.html /usr/share/nginx/html
 
     ________________________________
+    �
