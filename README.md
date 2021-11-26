@@ -4,6 +4,7 @@ Innerhalb dieses Images wird ein Script ausgeführt, welches jede Minute Datum u
 
 Das Script sieht wie folgt aus:
 '''
+
 while true
 do
         date=$(date +%F_%T)
@@ -17,4 +18,5 @@ do
         sed -i 's/DATE:.*/'"$date_text"'/' /usr/share/nginx/html/index.html
         sleep 60
 done
+
 '''
